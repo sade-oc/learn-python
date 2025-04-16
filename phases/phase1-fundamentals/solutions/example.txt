@@ -1,0 +1,8 @@
+Welcome to Python programming.
+This is a text file with some Python-related lines.
+The first line doesn't mention Python.
+Python is an amazing language for coding.
+Let's write more about Python in this file.
+The word Python appears several times in this file.
+This file will be useful for Python exercises.
+Python is great for data science.
